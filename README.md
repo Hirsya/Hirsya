@@ -1,7 +1,8 @@
 <div align="center">
 
-  <h1>Malikal Hirsya Alfatory</h1>
-  <p><b>Engineering Student | Beginner Programmer</b></p>
+  <img src="https://media1.tenor.com/m/S7fBzpUYjoAAAAAd/banner.gif" alt="Malikal H.A Banner" width="100%"/>
+
+  <br><br>
 
   <p>
     <a href="https://discordapp.com/users/712661206783230043" target="_blank">
