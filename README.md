@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00599C&height=250&section=header&text=Malikal%20Hirsya%20Alfatory&fontSize=50&fontColor=ffffff&desc=Engineering%20Student%20%7C%20Beginner%20Programmer&descAlignY=75&descAlign=50" alt="Banner Profile"/>
+  <h1>Malikal Hirsya Alfatory</h1>
+  <p><b>Engineering Student | Beginner Programmer</b></p>
 
   <p>
     <a href="https://discordapp.com/users/712661206783230043" target="_blank">
