@@ -53,7 +53,9 @@ I'm an Engineering Student but still a beginner in programing world. I would lov
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
 </p>
+
 ---
+
 <p align="center">
   <i>"Thanks For Visiting My Profile."</i>
 </p>
