@@ -41,7 +41,7 @@ I'm an Engineering Student but still a beginner in programing world. I would lov
 
 ---
 
-### 🌱 Still Learning / Willing to Learn
+### Still Learning / Willing to Learn
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
@@ -54,8 +54,8 @@ I'm an Engineering Student but still a beginner in programing world. I would lov
    
 ### Current Projects & Goals
 
-*   🔭 Currently developing a short story program in C++ titled **CerpenKita**.
-*   🌱 Deepening my knowledge in algorithms, syntax optimization, and C++ casting.
+*   Currently developing a short story program in C++ titled **CerpenKita**.
+*   Deepening my knowledge in algorithms, syntax optimization, and C++ casting.
 
 ---
 
