@@ -1,7 +1,8 @@
 <div align="center">
 
-  <h1>Malikal Hirsya Alfatory</h1>
-  <p><b>Engineering Student | Beginner Programmer</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00d2ff&height=250&section=header&text=Malikal%20Hirsya%20Alfatory&fontSize=50&fontColor=ffffff&desc=Engineering%20Student%20%7C%20Beginner%20Programmer&descAlignY=75&descAlign=50&descSize=20" alt="Banner Profile" width="100%"/>
+
+  <br><br>
   
   <p>
     <a href="https://discordapp.com/users/712661206783230043" target="_blank">
@@ -30,6 +31,8 @@
 </div>
 
 <br>
+
+---
 
 ### About Me
 
