@@ -13,17 +13,12 @@
 </p>
 
 I'm an Engineering Student but still a beginner in programing world. I would love to learn more and improve myself 
-### 🚀 About Me
+###  About Me
 
-*   🎓 **Engineering Student** at the University of Mataram.
-*   💻 Specializing in **C++ programming**, And Web Development 
-*   🤖 Actively exploring the creative applications of **Generative AI** for visual media.
-*   🌐 Interested in Game Programming, Software Learning, And
-   
-### 🌱 Current Projects & Goals
-
-*   🔭 Currently developing a short story program in C++ titled **CerpenKita**.
-*   🌱 Deepening my knowledge in algorithms, syntax optimization, and C++ casting.
+*   **Engineering Student** at the University of Mataram.
+*   Specializing in **C++ programming**, And Web Development 
+*   Actively exploring the creative applications of **Generative AI** for visual media.
+*   Interested in Game Programming, Software Learning, And
 
 ## Tech Stack
 
@@ -53,6 +48,14 @@ I'm an Engineering Student but still a beginner in programing world. I would lov
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
 </p>
+
+---
+
+   
+### Current Projects & Goals
+
+*   🔭 Currently developing a short story program in C++ titled **CerpenKita**.
+*   🌱 Deepening my knowledge in algorithms, syntax optimization, and C++ casting.
 
 ---
 
