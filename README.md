@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://media1.tenor.com/m/S7fBzpUYjoAAAAAd/banner.gif" alt="Malikal H.A Banner" width="100%"/>
+  <h1>Malikal Hirsya Alfatory</h1>
+  <p><b>Engineering Student | Beginner Programmer</b></p>
+  <img src="https://media1.tenor.com/m/S7fBzpUYjoAAAAAd/banner.gif" alt="Banner" width="700"/>
 
   <br><br>
 
