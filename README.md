@@ -1,4 +1,4 @@
-# Hi 👋, I'm Malikal Hirsya Alfatory!
+# Hi , I'm Malikal Hirsya Alfatory!
 
 <p align="left">
   <a href="https://discordapp.com/users/712661206783230043" target="_blank">
@@ -18,7 +18,7 @@ I'm an Engineering Student but still a beginner in programing world. I would lov
 *   **Engineering Student** at the University of Mataram.
 *   Specializing in **C++ programming**, And Web Development 
 *   Actively exploring the creative applications of **Generative AI** for visual media.
-*   Interested in Game Programming, Software Learning, And
+*   Interested in Game Programming, Software Learning, And Machine Learning
 
 ## Tech Stack
 
