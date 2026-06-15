@@ -1,26 +1,44 @@
-# Hi , I'm Malikal Hirsya Alfatory!
+<div align="center">
 
-<p align="left">
-  <a href="https://discordapp.com/users/712661206783230043" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:malikalhirsya57@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/hirsya.a" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+  <h1>Malikal Hirsya Alfatory</h1>
+  <p><b>Engineering Student | Beginner Programmer</b></p>
 
-I'm an Engineering Student but still a beginner in programing world. I would love to learn more and improve myself 
-###  About Me
+  <p>
+    <a href="https://discordapp.com/users/712661206783230043" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+    <a href="mailto:malikalhirsya57@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://instagram.com/hirsya.a" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
+
+  <br>
+
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif](https://media.tenor.com/cRs4lnEWw48AAAAM/everknight-evernight.gif)" alt="Yay" width="250"/>
+
+  <br><br>
+
+  <p>
+    👋 Hi, I'm <b>Malikal Hirsya Alfatory</b>.<br>
+    💻 An Engineering Student but still a beginner in the programming world.<br>
+    🌱 I would love to learn more and improve myself.
+  </p>
+
+</div>
+
+<br>
+
+### About Me
 
 *   **Engineering Student** at the University of Mataram.
-*   Specializing in **C++ programming**, And Web Development 
+*   Specializing in **C++ programming**, and Web Development.
 *   Actively exploring the creative applications of **Generative AI** for visual media.
-*   Interested in Game Programming, Software Learning, And Machine Learning
+*   Interested in Game Programming, Software Learning, and Machine Learning.
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 <p align="left">
@@ -51,8 +69,7 @@ I'm an Engineering Student but still a beginner in programing world. I would lov
 
 ---
 
-   
-### Current Projects & Goals
+###  Current Projects & Goals
 
 *   Currently developing a short story program in C++ titled **CerpenKita**.
 *   Deepening my knowledge in algorithms, syntax optimization, and C++ casting.
