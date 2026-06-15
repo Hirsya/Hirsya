@@ -2,9 +2,6 @@
 
   <h1>Malikal Hirsya Alfatory</h1>
   <p><b>Engineering Student | Beginner Programmer</b></p>
-
-  <br><br>
-  
   <p>
     <a href="https://discordapp.com/users/712661206783230043" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
