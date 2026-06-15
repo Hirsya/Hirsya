@@ -28,10 +28,6 @@
 
 </div>
 
-<br>
-
----
-
 ### About Me
 
 *   **Engineering Student** at the University of Mataram.
@@ -57,8 +53,6 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-
----
 
 ### Still Learning / Willing to Learn
 <p align="left">
