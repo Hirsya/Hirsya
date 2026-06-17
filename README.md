@@ -68,6 +68,7 @@
 
 *   Currently developing a short story program in C++ titled **CerpenKita**.
 *   Deepening my knowledge in algorithms, syntax optimization, and C++ casting.
+*   Learning new language such as **Python**, and **JavaScript**.
 
 ---
 
