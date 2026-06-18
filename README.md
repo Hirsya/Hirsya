@@ -16,7 +16,7 @@
 
   <br>
 
-  <img src="https://media.tenor.com/WyttCDFchNkAAAAM/sparxie-hoyoverse.gif" alt="Yay" width="250"/>
+  <img src="https://media.tenor.com/xNXK5lN6ot8AAAAM/silver-wolf-lvl-999.gif" alt="Yay" width="350"/>
 
   <br><br>
 
