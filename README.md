@@ -63,11 +63,10 @@
 
 ---
 
-  ![](https://streak-stats.demolab.com/?user=Hirsya&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Hirsya&theme=github_dark" alt="GitHub Streak" />
+</p>
 
-<br>
-  
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hirsya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
