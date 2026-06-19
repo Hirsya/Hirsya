@@ -71,7 +71,6 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Hirsya&label=Profile%20views&color=0e75b6&style=flat" alt="Hirsya" />
   <br>
   <i>"Thanks For Visiting My Profile."</i>
 </p>
