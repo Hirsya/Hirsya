@@ -72,7 +72,6 @@
 ---
 
 <p align="center">
-  <br>
   <i>"Thanks For Visiting My Profile."</i>
 </p>
 
