@@ -1,7 +1,6 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:7209b7&height=200&section=header&text=%E3%80%8E%20%20Malikal%20Hirsya%20Alfatory%20%20%E3%80%8F&fontSize=50&fontColor=fff&animation=twinkling&desc=Engineering%20Student%20%7C%20Beginner%20Programmer&descAlignY=70&descAlign=50" alt="Header" />
 
-  <h1>Malikal Hirsya Alfatory</h1>
-  <p><b>Engineering Student | Beginner Programmer</b></p>
   <p>
     <a href="https://discordapp.com/users/712661206783230043" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
