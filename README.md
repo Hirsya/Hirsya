@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:7209b7&height=200&section=header&text=%E3%80%8E%20%20Malikal%20Hirsya%20Alfatory%20%20%E3%80%8F&fontSize=50&fontColor=fff&animation=twinkling&desc=Engineering%20Student%20%7C%20Beginner%20Programmer&descAlignY=70&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:7209b7&height=175&section=header&text=%E3%80%8E%20%20Malikal%20Hirsya%20Alfatory%20%20%E3%80%8F&fontSize=50&fontColor=fff&desc=Engineering%20Student%20%7C%20Beginner%20Programmer&descAlignY=70&descAlign=50" alt="Header" />
 
   <p>
     <a href="https://discordapp.com/users/712661206783230043" target="_blank">
@@ -64,14 +64,15 @@
 
 ##  Git Hub Stats
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hirsya&label=Profile%20views&color=0e75b6&style=flat" alt="Hirsya" />
+  <br>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Hirsya&theme=github_dark" alt="GitHub Streak" />
 </p>
 
 
----
-
 <p align="center">
-  <i>"Thanks For Visiting My Profile."</i>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:7209b7&height=150&lenght=100%&section=footer&desc=%E2%80%9CThanks%20For%20%Visiting%20My%20Profile%E2%80%9D&fontSize=50&fontColor=fff&descAlignY=70&descAlign=50" alt="Header" />
 </p>
 
-<!-- Green Forsest : day 2 -->
+<!-- Green Forsest : day 5 -->
+
