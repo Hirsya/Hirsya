@@ -38,6 +38,7 @@
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
@@ -48,7 +49,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ### Still Learning / Willing to Learn
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
@@ -57,7 +57,8 @@
 ###  Current Projects & Goals
 
 *   Deepening my knowledge in algorithms, syntax optimization, and C++ casting.
-*   Learning new language such as **Python**, and **JavaScript**.
+*   Learning new language such as **JavaScript**, and **lua**.
+*   Configurating my own dotfile for hyprland in Cachy OS
 
 ---
 
