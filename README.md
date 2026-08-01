@@ -54,14 +54,6 @@
 
 ---
 
-###  Current Projects & Goals
-
-*   Deepening my knowledge in algorithms, syntax optimization, and C++ casting.
-*   Learning new language such as **JavaScript**, and **lua**.
-*   Configurating my own dotfile for hyprland in Cachy OS
-
----
-
 ##  Git Hub Stats
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hirsya&label=Profile%20views&color=0e75b6&style=flat" alt="Hirsya" />
