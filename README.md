@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:7209b7&height=150&section=header&text=Malikal%20Hirsya%20Alfatory%20%&fontSize=30&fontColor=fff&desc=Engineering%20Student%20%7C%20Beginner%20Programmer&descAlignY=70&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,100:00b4d8&height=150&section=header&text=Malikal%20Hirsya%20Alfatory%20%&fontSize=30&fontColor=fff&desc=Engineering%20Student%20%7C%20Beginner%20Programmer&descAlignY=70&descAlign=50" alt="Header" />
 
   <p>
     <a href="https://discordapp.com/users/712661206783230043" target="_blank">
@@ -15,9 +15,9 @@
 
   <br>
 
-  <img src="https://media.tenor.com/xNXK5lN6ot8AAAAM/silver-wolf-lvl-999.gif" alt="Yay" width="350"/>
+  <img src="https://media.tenor.com/HCW5s2raa7AAAAAM/i-made-friends-with-the-second-prettiest-girl-in-my-class-%E5%92%8C%E7%8F%AD%E4%B8%8A%E7%AC%AC%E4%BA%8C%E5%8F%AF%E6%84%9B%E7%9A%84%E5%A5%B3%E7%94%9F%E6%88%90%E7%88%B2%E6%9C%8B%E5%8F%8B.gif" alt="Yay" width="350"/>
 
-  <br><br>
+  <br>
 
   <p>
     👋 Hi, I'm <b>Malikal Hirsya Alfatory</b>.<br>
@@ -27,28 +27,19 @@
 
 </div>
 
-### About Me
-
-*   **Engineering Student** at the University of Mataram.
-*   Specializing in **C++ programming**, and Web Development.
-*   Actively exploring the creative applications of **Generative AI** for visual media.
-*   Interested in Game Programming, Software Learning, and Machine Learning.
-
 ## 🛠 Tech Stack
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp" />
 
 ### Tools
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+<img src="https://skillicons.dev/icons?i=git,github,arch" />
 
 ### Still Learning / Willing to Learn
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+<img src="https://skillicons.dev/icons?i=mysql,docker" />
 
 ---
 
@@ -61,8 +52,5 @@
 
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:7209b7&height=150&lenght=100%&section=footer&desc=%E2%80%9CThanks%20For%20%Visiting%20My%20Profile%E2%80%9D&fontSize=50&fontColor=fff&descAlignY=70&descAlign=50" alt="Header" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,100:00b4d8&height=150&lenght=100%&section=footer&desc=%E2%80%9CThanks%20For%20%Visiting%20My%20Profile%E2%80%9D&fontSize=50&fontColor=fff&descAlignY=70&descAlign=50" alt="Header" />
 </p>
-
-<!-- To Linux: https://pin.it/44aeuKrp4 -->
-
