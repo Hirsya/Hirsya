@@ -33,7 +33,7 @@
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,arch" />
+<img src="https://skillicons.dev/icons?i=git,github,linux" />
 
 ### Still Learning / Willing to Learn
 
