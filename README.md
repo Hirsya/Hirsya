@@ -18,9 +18,9 @@
   <br>
 
   <p>
-    👋 Hi, My name is <b>Malikal Hirsya Alfatory</b>.<br>
-    💻 An Engineering Student but still a beginner in the programming world.<br>
-    🌱 I would love to learn more and improve myself.
+    Hi, My name is <b>Malikal Hirsya Alfatory</b><br>
+    Compsci student in University of Mataram<br>
+    Would like to improve and learn better<br>
   </p>
 
 </div>
