@@ -23,11 +23,11 @@
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,mysql,php,npm" />
 
 ### Still Learning / Willing to Learn
 
-<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=docker,lua,robloxstudio" />
 
 
 
