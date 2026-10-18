@@ -23,13 +23,15 @@
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,mysql,php,npm,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,mysql,php,npm,vscode" />
 
 ### Still Learning / Willing to Learn
 
-<img src="https://skillicons.dev/icons?i=docker,lua,robloxstudio" />
+<img src="https://skillicons.dev/icons?i=docker,lua,robloxstudio,vercel" />
 
+### Operating System
 
+<img src="https://skillicons.dev/icons?i=linux,windows" />
 
 ## Social Media
 
