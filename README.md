@@ -15,7 +15,7 @@
 
 </div>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -29,7 +29,7 @@
 
 <img src="https://skillicons.dev/icons?i=docker" />
 
----
+
 
 ## Social Media
 
@@ -45,7 +45,6 @@
     </a>
   </p>
 
----
 
 ##  Git Hub Stats
 <p align="center">
