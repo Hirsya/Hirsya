@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,100:00b4d8&height=150&section=header&text=Malikal%20Hirsya%20Alfatory%20%&fontSize=30&fontColor=fff&desc=Engineering%20Student%20%7C%20Beginner%20Programmer&descAlignY=70&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,100:00b4d8&height=150&section=header&text=Malikal%20Hirsya%20Alfatory%20%&fontSize=30&fontColor=fff&desc=AI%20Workflow%20and%20Automation%20Enthusiast&descAlignY=70&descAlign=50" alt="Header" />
 
   
 
@@ -10,7 +10,7 @@
   <p>
     Hi, My name is <b>Malikal Hirsya Alfatory</b><br>
     Compsci student in University of Mataram<br>
-    Would like to improve and learn better<br>
+    I really like the idea about Ai workflow and Automation Builder<br>
   </p>
 
 </div>
@@ -23,7 +23,7 @@
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,mysql,php,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,mysql,php,npm,vscode" />
 
 ### Still Learning / Willing to Learn
 
