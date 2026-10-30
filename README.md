@@ -62,11 +62,6 @@ public class Hirsya {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hirsya&background=0d1117&border=0d1117&stroke=1e90ff&ring=1e90ff&fire=ffd400&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=1e90ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hirsya&theme=github_dark" alt="profile details" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hirsya&theme=github_dark" alt="repos per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hirsya&theme=github_dark" alt="most commit language" />
-
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1e90ff&height=110&section=footer" width="100%" />
 
