@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 30" width="1200" height="30">
+  <defs>
+    <linearGradient id="ln" x1="0" x2="1">
+      <stop offset="0" stop-color="#1e90ff" stop-opacity="0"/>
+      <stop offset=".3" stop-color="#1e90ff"/>
+      <stop offset=".5" stop-color="#ffd400"/>
+      <stop offset=".7" stop-color="#1e90ff"/>
+      <stop offset="1" stop-color="#1e90ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="gl" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c"><rect x="0" y="13" width="1200" height="4"/></clipPath>
+    <symbol id="star" viewBox="0 0 24 24">
+      <path d="M12 2l2.9 6.5 7.1.7-5.3 4.8 1.5 7L12 17.4 5.8 21l1.5-7L2 9.2l7.1-.7z"/>
+    </symbol>
+  </defs>
+  <style>
+    .sh{animation:sh 3.5s linear infinite}
+    @keyframes sh{from{transform:translateX(-200px)}to{transform:translateX(1200px)}}
+  </style>
+  <rect x="0" y="14" width="560" height="2" fill="url(#ln)"/>
+  <rect x="640" y="14" width="560" height="2" fill="url(#ln)"/>
+  <g clip-path="url(#c)"><rect class="sh" x="0" y="13" width="160" height="4" fill="url(#gl)"/></g>
+  <use href="#star" x="590" y="5" width="22" height="22" fill="#ffd400"/>
+</svg>

@@ -1,61 +1,72 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,100:00b4d8&height=150&section=header&text=Malikal%20Hirsya%20Alfatory%20%&fontSize=30&fontColor=fff&desc=AI%20Workflow%20and%20Automation%20Enthusiast&descAlignY=70&descAlign=50" alt="Header" />
 
-  
+<img src="banner.svg" width="100%" alt="Hirsya" />
 
-  <img src="https://media.tenor.com/HCW5s2raa7AAAAAM/i-made-friends-with-the-second-prettiest-girl-in-my-class-%E5%92%8C%E7%8F%AD%E4%B8%8A%E7%AC%AC%E4%BA%8C%E5%8F%AF%E6%84%9B%E7%9A%84%E5%A5%B3%E7%94%9F%E6%88%90%E7%88%B2%E6%9C%8B%E5%8F%8B.gif" alt="Yay" width="250"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=1E90FF&center=true&vCenter=true&width=600&lines=%3E+AI+workflow+%26+automation+enthusiast+%F0%9F%A4%96;%3E+Compsci+student+%40+University+of+Mataram+%F0%9F%8E%93;%3E+Java+%E2%80%A2+Python+%E2%80%A2+C%2B%2B" alt="typing" />
 
-  <br>
+<img src="divider.svg" width="100%" />
 
-  <p>
-    Hi, My name is <b>Malikal Hirsya Alfatory</b><br>
-    Compsci student in University of Mataram<br>
-    I really like the idea about Ai workflow and Automation Builder<br>
-  </p>
+### ✨ whoami
 
 </div>
 
-## Tech Stack
+```java
+public class Hirsya {
+    String     name     = "Malikal Hirsya Alfatory";
+    String     vibe     = "AI workflow & automation enthusiast 🤖";
+    String     school   = "Computer Science @ University of Mataram";
+    List<String> stack  = List.of("Java", "Python", "C++", "PHP", "MySQL");
+    List<String> learning = List.of("Docker", "Lua", "Roblox Studio", "Vercel");
+    String     motto    = "if the workflow can be automated, why do it manually?";
+}
+```
 
-### Languages
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp" />
+<img src="divider.svg" width="100%" />
 
-### Tools
+### 🛠️ stack
 
-<img src="https://skillicons.dev/icons?i=git,github,mysql,php,npm,vscode" />
+<table>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,python,cpp" alt="languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,mysql,php,npm,vscode" alt="tools" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Learning</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,lua,robloxstudio,vercel" alt="learning" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>OS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,windows" alt="os" /></td>
+  </tr>
+</table>
 
-### Still Learning / Willing to Learn
+<img src="divider.svg" width="100%" />
 
-<img src="https://skillicons.dev/icons?i=docker,lua,robloxstudio,vercel" />
+### 🔗 connect
 
-### Operating System
+<a href="https://discordapp.com/users/712661206783230043" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="discord" /></a>
+<a href="mailto:malikalhirsya57@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>
+<a href="https://instagram.com/hirsya.a" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram" /></a>
 
-<img src="https://skillicons.dev/icons?i=linux,windows" />
+<img src="divider.svg" width="100%" />
 
-## Social Media
+### 📊 stats
 
-  <p>
-    <a href="https://discordapp.com/users/712661206783230043" target="_blank">
-      <img src="https://skillicons.dev/icons?i=discord"/>
-    </a>
-    <a href="mailto:malikalhirsya57@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail"/>
-    </a>
-    <a href="https://instagram.com/hirsya.a" target="_blank">
-      <img src="https://skillicons.dev/icons?i=instagram"/>
-    </a>
-  </p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hirsya&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&title_color=1e90ff&icon_color=ffd400&text_color=c9d1d9&ring_color=1e90ff" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirsya&layout=compact&hide_border=true&bg_color=0d1117&title_color=1e90ff&text_color=c9d1d9" alt="top langs" />
 
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Hirsya&theme=github_dark" alt="GitHub Streak" />
 
-##  Git Hub Stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hirsya&label=Profile%20views&color=0e75b6&style=flat" alt="Hirsya" />
-  <br>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Hirsya&theme=github_dark" alt="GitHub Streak" />
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hirsya&bg_color=0d1117&color=1e90ff&line=1e90ff&point=ffd400&area=true&area_color=1e90ff&hide_border=true&custom_title=activity" alt="activity" />
 
+<img src="https://komarev.com/ghpvc/?username=Hirsya&label=Profile%20views&color=0d6efd&style=flat" alt="Hirsya" />
 
-<p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,100:00b4d8&height=150&lenght=100%&section=footer&desc=%E2%80%9CThanks%20For%20%Visiting%20My%20Profile%E2%80%9D&fontSize=50&fontColor=fff&descAlignY=70&descAlign=50" alt="Header" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1e90ff&height=110&section=footer" width="100%" />
+
+</div>
