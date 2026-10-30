@@ -8,7 +8,7 @@
 
 ### ✨ whoami
 
-<img src="./assets/omi.gif" width="350" alt="Cyberpunk animation" />
+<img src="./assets/omi.gif" width="250" alt="Cyberpunk animation" />
 
 </div>
 
