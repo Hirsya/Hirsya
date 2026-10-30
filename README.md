@@ -58,8 +58,7 @@ public class Hirsya {
 
 ### 📊 stats
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hirsya&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&title_color=1e90ff&icon_color=ffd400&text_color=c9d1d9&ring_color=1e90ff" alt="stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hirsya&layout=compact&hide_border=true&bg_color=0d1117&title_color=1e90ff&text_color=c9d1d9" alt="top langs" />
+<img src="https://komarev.com/ghpvc/?username=Hirsya&label=Profile%20views&color=0d6efd&style=flat" alt="Hirsya" /><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hirsya&background=0d1117&border=0d1117&stroke=1e90ff&ring=1e90ff&fire=ffd400&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=1e90ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 
@@ -68,7 +67,6 @@ public class Hirsya {
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hirsya&theme=github_dark" alt="repos per language" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hirsya&theme=github_dark" alt="most commit language" />
 
-<img src="https://komarev.com/ghpvc/?username=Hirsya&label=Profile%20views&color=0d6efd&style=flat" alt="Hirsya" />
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1e90ff&height=110&section=footer" width="100%" />
 
