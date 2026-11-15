@@ -62,7 +62,7 @@ public class Hirsya {
 
 <img src="https://komarev.com/ghpvc/?username=Hirsya&label=Profile%20views&color=C41E3A&style=flat" alt="Hirsya" /><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hirsya&background=F4F2F7&border=5A1A2E&stroke=C41E3A&ring=C41E3A&fire=E8475F&currStreakNum=1A1A1A&sideNums=1A1A1A&currStreakLabel=C41E3A&sideLabels=5A1A2E&dates=5A1A2E" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hirsya&background=1A1A1A&border=5A1A2E&stroke=C41E3A&ring=C41E3A&fire=E8475F&currStreakNum=F4F2F7&sideNums=F4F2F7&currStreakLabel=E8475F&sideLabels=E8475F&dates=C41E3A" alt="GitHub Streak" />
 
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:F4F2F7,100:C41E3A&height=110&section=footer" width="100%" />
