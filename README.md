@@ -8,7 +8,8 @@
 
 ### ✨ whoami
 
-<img src="https://media1.tenor.com/m/OxnaoTUs2NEAAAAC/hsr-aha.gif" width="341" alt="Aha — Honkai Star Rail" />
+<img src="https://media1.tenor.com/m/OxnaoTUs2NEAAAAC/hsr-aha.gif" width="70%" alt="Aha — Honkai Star Rail" />
+<img src="https://tenor.com/view/aha-nihilux-hsr-honkai-star-rail-peekaboo-gif-14678112832033916087.gif" width="70%" alt="Aha — Honkai Star Rail" />
 
 </div>
 
@@ -65,6 +66,3 @@ public class Hirsya {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hirsya&background=1A1A1A&border=5A1A2E&stroke=C41E3A&ring=C41E3A&fire=E8475F&currStreakNum=F4F2F7&sideNums=F4F2F7&currStreakLabel=E8475F&sideLabels=E8475F&dates=C41E3A" alt="GitHub Streak" />
 
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F4F2F7,100:C41E3A&height=110&section=footer" width="100%" />
-
-</div>
