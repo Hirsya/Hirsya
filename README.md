@@ -8,8 +8,7 @@
 
 ### ✨ whoami
 
-<img src="https://media1.tenor.com/m/OxnaoTUs2NEAAAAC/hsr-aha.gif" width="70%" alt="Aha — Honkai Star Rail" />
-<img src="https://tenor.com/view/aha-nihilux-hsr-honkai-star-rail-peekaboo-gif-14678112832033916087.gif" width="70%" alt="Aha — Honkai Star Rail" />
+<img src="https://media1.tenor.com/m/OxnaoTUs2NEAAAAC/hsr-aha.gif" width="100%" alt="Aha — Honkai Star Rail" />
 
 </div>
 
@@ -25,6 +24,9 @@ public class Hirsya {
 ```
 
 <div align="center">
+
+<img src="https://tenor.com/view/aha-nihilux-hsr-honkai-star-rail-peekaboo-gif-14678112832033916087.gif" width="100%" alt="Aha — Honkai Star Rail" />
+
 
 <img src="divider.svg" width="100%" />
 
