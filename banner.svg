@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b0910"/>
-      <stop offset=".6" stop-color="#150f1f"/>
-      <stop offset="1" stop-color="#1c0a14"/>
+      <stop offset="0" stop-color="#F4F2F7"/>
+      <stop offset=".55" stop-color="#EFEAF3"/>
+      <stop offset="1" stop-color="#F8EFF1"/>
     </linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#9B4DDB" stroke-opacity=".09"/>
+      <path d="M40 0H0V40" fill="none" stroke="#C41E3A" stroke-opacity=".07"/>
     </pattern>
     <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
-      <rect width="4" height="1" fill="#000" opacity=".18"/>
+      <rect width="4" height="1" fill="#5A1A2E" opacity=".05"/>
     </pattern>
     <radialGradient id="glow" cx=".5" cy=".5" r=".5">
-      <stop offset="0" stop-color="#9B4DDB" stop-opacity=".34"/>
-      <stop offset=".6" stop-color="#9B4DDB" stop-opacity=".06"/>
-      <stop offset="1" stop-color="#9B4DDB" stop-opacity="0"/>
+      <stop offset="0" stop-color="#E8475F" stop-opacity=".20"/>
+      <stop offset=".6" stop-color="#E8475F" stop-opacity=".05"/>
+      <stop offset="1" stop-color="#E8475F" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#9B4DDB" stop-opacity="0"/>
-      <stop offset=".5" stop-color="#C9C3E6" stop-opacity=".08"/>
-      <stop offset="1" stop-color="#9B4DDB" stop-opacity="0"/>
+      <stop offset="0" stop-color="#C41E3A" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#C41E3A" stop-opacity=".07"/>
+      <stop offset="1" stop-color="#C41E3A" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="frame"><rect width="1200" height="320" rx="18"/></clipPath>
     <clipPath id="sl1"><rect x="0" y="108" width="1200" height="18"/></clipPath>
@@ -34,8 +34,8 @@
 
   <style>
     .t{font-family:'Consolas','Menlo','DejaVu Sans Mono','Courier New',monospace;font-weight:800;font-size:96px;letter-spacing:-2px;text-anchor:middle}
-    .sub{font-family:'Consolas','Menlo','DejaVu Sans Mono','Courier New',monospace;font-size:17px;letter-spacing:4px;text-anchor:middle;fill:#C9C3E6}
-    .hud{font-family:'Consolas','Menlo','DejaVu Sans Mono','Courier New',monospace;font-size:15px;fill:#9B4DDB;opacity:.8}
+    .sub{font-family:'Consolas','Menlo','DejaVu Sans Mono','Courier New',monospace;font-size:17px;letter-spacing:4px;text-anchor:middle;fill:#1A1A1A}
+    .hud{font-family:'Consolas','Menlo','DejaVu Sans Mono','Courier New',monospace;font-size:15px;fill:#5A1A2E;opacity:.8}
     .g1{animation:g1 4s infinite}
     .g2{animation:g2 4s infinite .15s}
     .s1{animation:sl 5s infinite}
@@ -51,7 +51,7 @@
     @keyframes g2{0%,86%,100%{transform:translate(0,0)}88%{transform:translate(8px,-1px)}91%{transform:translate(-6px,2px)}94%{transform:translate(3px,0)}}
     @keyframes sl{0%,82%,90%,100%{transform:translateX(0);opacity:0}83%{opacity:1}84%{transform:translateX(-26px);opacity:1}86%{transform:translateX(20px);opacity:1}88%{transform:translateX(-8px);opacity:1}}
     @keyframes fl{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-12px) rotate(6deg)}}
-    @keyframes tw{0%,100%{opacity:.1}50%{opacity:1}}
+    @keyframes tw{0%,100%{opacity:.15}50%{opacity:1}}
     @keyframes bl{0%{opacity:1}50%{opacity:0}}
     @keyframes sc{from{transform:translateY(-90px)}to{transform:translateY(340px)}}
     @keyframes fk{0%,100%{opacity:.95}61%{opacity:.95}62%{opacity:.35}64%{opacity:.95}66%{opacity:.5}67%{opacity:.95}}
@@ -64,23 +64,23 @@
 
     <!-- shards left -->
     <g class="fk">
-      <polygon points="0,320 0,190 46,232 30,150 96,214 84,128 132,236 158,176 150,260 210,240 150,320" fill="#9B4DDB" opacity=".9"/>
-      <polygon points="0,320 0,250 52,276 70,214 98,290 140,262 120,320" fill="#5E2A8C"/>
-      <polygon points="18,320 64,246 72,300 110,236 96,320" fill="#B98CE8" opacity=".7"/>
-      <polygon points="150,170 176,110 170,184 196,150 168,214" fill="#B3203F" opacity=".85"/>
-      <polygon points="0,96 38,120 12,138 54,160 0,176" fill="#C9C3E6" opacity=".35"/>
+      <polygon points="0,320 0,190 46,232 30,150 96,214 84,128 132,236 158,176 150,260 210,240 150,320" fill="#C41E3A" opacity=".92"/>
+      <polygon points="0,320 0,250 52,276 70,214 98,290 140,262 120,320" fill="#5A1A2E"/>
+      <polygon points="18,320 64,246 72,300 110,236 96,320" fill="#E8475F" opacity=".75"/>
+      <polygon points="150,170 176,110 170,184 196,150 168,214" fill="#1A1A1A" opacity=".7"/>
+      <polygon points="0,96 38,120 12,138 54,160 0,176" fill="#C41E3A" opacity=".4"/>
     </g>
     <!-- shards right -->
     <g class="fk d2">
-      <polygon points="1200,0 1200,140 1150,96 1166,176 1100,110 1112,200 1062,90 1036,150 1046,60 990,84 1046,0" fill="#9B4DDB" opacity=".9"/>
-      <polygon points="1200,0 1200,70 1146,46 1128,104 1100,30 1060,58 1080,0" fill="#5E2A8C"/>
-      <polygon points="1180,0 1134,74 1126,20 1088,84 1102,0" fill="#B98CE8" opacity=".7"/>
-      <polygon points="1040,152 1016,216 1024,140 998,176 1026,110" fill="#B3203F" opacity=".85"/>
-      <polygon points="1200,226 1160,206 1188,188 1146,166 1200,150" fill="#C9C3E6" opacity=".35"/>
+      <polygon points="1200,0 1200,140 1150,96 1166,176 1100,110 1112,200 1062,90 1036,150 1046,60 990,84 1046,0" fill="#C41E3A" opacity=".92"/>
+      <polygon points="1200,0 1200,70 1146,46 1128,104 1100,30 1060,58 1080,0" fill="#5A1A2E"/>
+      <polygon points="1180,0 1134,74 1126,20 1088,84 1102,0" fill="#E8475F" opacity=".75"/>
+      <polygon points="1040,152 1016,216 1024,140 998,176 1026,110" fill="#1A1A1A" opacity=".7"/>
+      <polygon points="1200,226 1160,206 1188,188 1146,166 1200,150" fill="#C41E3A" opacity=".4"/>
     </g>
 
     <!-- sparkles -->
-    <g fill="#E8E4F6">
+    <g fill="#C41E3A">
       <circle class="tw" cx="230" cy="70" r="2.2"/>
       <circle class="tw k1" cx="318" cy="250" r="1.8"/>
       <circle class="tw k2" cx="884" cy="262" r="2.2"/>
@@ -91,37 +91,37 @@
       <circle class="tw" cx="1130" cy="270" r="2"/>
     </g>
     <g>
-      <path class="tw k2" d="M258 210h12M264 204v12" stroke="#B3203F" stroke-width="2"/>
-      <path class="tw k1" d="M932 120h12M938 114v12" stroke="#C9C3E6" stroke-width="2"/>
+      <path class="tw k2" d="M258 210h12M264 204v12" stroke="#5A1A2E" stroke-width="2"/>
+      <path class="tw k1" d="M932 120h12M938 114v12" stroke="#C41E3A" stroke-width="2"/>
     </g>
 
     <!-- stars & masks -->
-    <g transform="translate(205 34)"><g class="fl"><use href="#star" width="34" height="34" fill="#9B4DDB" opacity=".6"/></g></g>
-    <g transform="translate(905 190)"><g class="fl d1"><use href="#mask" width="30" height="30" fill="#B3203F" opacity=".7"/></g></g>
-    <g transform="translate(880 40)"><g class="fl d2"><use href="#star" width="26" height="26" fill="#C9C3E6" opacity=".8"/></g></g>
-    <g transform="translate(330 196)"><g class="fl d3"><use href="#star" width="22" height="22" fill="#B98CE8" opacity=".75"/></g></g>
-    <g transform="translate(990 236)"><g class="fl d3"><use href="#mask" width="22" height="22" fill="#9B4DDB" opacity=".65"/></g></g>
+    <g transform="translate(205 34)"><g class="fl"><use href="#star" width="34" height="34" fill="#C41E3A" opacity=".65"/></g></g>
+    <g transform="translate(905 190)"><g class="fl d1"><use href="#mask" width="30" height="30" fill="#5A1A2E" opacity=".7"/></g></g>
+    <g transform="translate(880 40)"><g class="fl d2"><use href="#star" width="26" height="26" fill="#E8475F" opacity=".85"/></g></g>
+    <g transform="translate(330 196)"><g class="fl d3"><use href="#star" width="22" height="22" fill="#C41E3A" opacity=".7"/></g></g>
+    <g transform="translate(990 236)"><g class="fl d3"><use href="#mask" width="22" height="22" fill="#C41E3A" opacity=".6"/></g></g>
 
     <!-- title -->
-    <g class="g1"><text class="t" x="596" y="170" fill="#C9C3E6" opacity=".85">Hirsya</text></g>
-    <g class="g2"><text class="t" x="604" y="170" fill="#9B4DDB">Hirsya</text></g>
-    <text class="t" x="600" y="170" fill="#ffffff">Hirsya</text>
-    <g clip-path="url(#sl1)"><g class="s1"><text class="t" x="600" y="170" fill="#9B4DDB">Hirsya</text></g></g>
-    <g clip-path="url(#sl2)"><g class="s2"><text class="t" x="600" y="170" fill="#B3203F">Hirsya</text></g></g>
+    <g class="g1"><text class="t" x="596" y="170" fill="#E8475F" opacity=".9">Hirsya</text></g>
+    <g class="g2"><text class="t" x="604" y="170" fill="#5A1A2E">Hirsya</text></g>
+    <text class="t" x="600" y="170" fill="#1A1A1A">Hirsya</text>
+    <g clip-path="url(#sl1)"><g class="s1"><text class="t" x="600" y="170" fill="#C41E3A">Hirsya</text></g></g>
+    <g clip-path="url(#sl2)"><g class="s2"><text class="t" x="600" y="170" fill="#5A1A2E">Hirsya</text></g></g>
 
     <!-- subtitle -->
-    <rect x="350" y="206" width="500" height="2" fill="#9B4DDB" opacity=".55"/>
-    <text class="sub" x="600" y="244">MALIKAL <tspan fill="#9B4DDB">✦</tspan> HIRSYA <tspan fill="#B3203F">✦</tspan> ALFATORY <tspan fill="#9B4DDB">✦</tspan> AI</text>
+    <rect x="350" y="206" width="500" height="2" fill="#5A1A2E" opacity=".45"/>
+    <text class="sub" x="600" y="244">MALIKAL <tspan fill="#C41E3A">✦</tspan> HIRSYA <tspan fill="#E8475F">✦</tspan> ALFATORY <tspan fill="#C41E3A">✦</tspan> AI</text>
 
     <!-- HUD -->
     <text class="hud" x="40" y="44">&gt; whoami</text>
-    <rect class="cur" x="122" y="31" width="9" height="16" fill="#B3203F"/>
-    <text class="hud" x="1160" y="282" text-anchor="end" style="fill:#C9C3E6">● online</text>
-    <path d="M24 60V24h36M1140 24h36v36M24 260v36h36M1140 296h36v-36" fill="none" stroke="#9B4DDB" stroke-width="2" opacity=".65"/>
+    <rect class="cur" x="122" y="31" width="9" height="16" fill="#C41E3A"/>
+    <text class="hud" x="1160" y="282" text-anchor="end" style="fill:#C41E3A">● online</text>
+    <path d="M24 60V24h36M1140 24h36v36M24 260v36h36M1140 296h36v-36" fill="none" stroke="#5A1A2E" stroke-width="2" opacity=".55"/>
 
     <!-- CRT -->
     <rect class="bar" x="0" y="0" width="1200" height="90" fill="url(#bar)"/>
     <rect width="1200" height="320" fill="url(#scan)"/>
   </g>
-  <rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#9B4DDB" stroke-opacity=".4" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#5A1A2E" stroke-opacity=".5" stroke-width="2"/>
 </svg>

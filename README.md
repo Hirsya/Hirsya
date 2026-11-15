@@ -2,7 +2,7 @@
 
 <img src="banner.svg" width="100%" alt="Hirsya" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=9B4DDB&center=true&vCenter=true&width=600&lines=%3E+AI+workflow+%26+automation+enthusiast+%F0%9F%A4%96;%3E+Compsci+student+%40+University+of+Mataram+%F0%9F%8E%93;%3E+Java+%E2%80%A2+Python+%E2%80%A2+C%2B%2B" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=C41E3A&center=true&vCenter=true&width=600&lines=%3E+AI+workflow+%26+automation+enthusiast+%F0%9F%A4%96;%3E+Compsci+student+%40+University+of+Mataram+%F0%9F%8E%93;%3E+Java+%E2%80%A2+Python+%E2%80%A2+C%2B%2B" alt="typing" />
 
 <img src="divider.svg" width="100%" />
 
@@ -60,11 +60,11 @@ public class Hirsya {
 
 ### 📊 stats
 
-<img src="https://komarev.com/ghpvc/?username=Hirsya&label=Profile%20views&color=9B4DDB&style=flat" alt="Hirsya" /><br>
+<img src="https://komarev.com/ghpvc/?username=Hirsya&label=Profile%20views&color=C41E3A&style=flat" alt="Hirsya" /><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hirsya&background=0b0910&border=9B4DDB&stroke=9B4DDB&ring=9B4DDB&fire=B3203F&currStreakNum=ffffff&sideNums=C9C3E6&currStreakLabel=9B4DDB&sideLabels=C9C3E6&dates=C9C3E6" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hirsya&background=F4F2F7&border=5A1A2E&stroke=C41E3A&ring=C41E3A&fire=E8475F&currStreakNum=1A1A1A&sideNums=1A1A1A&currStreakLabel=C41E3A&sideLabels=5A1A2E&dates=5A1A2E" alt="GitHub Streak" />
 
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b0910,100:9B4DDB&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F4F2F7,100:C41E3A&height=110&section=footer" width="100%" />
 
 </div>

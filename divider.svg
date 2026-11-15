@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 30" width="1200" height="30">
   <defs>
     <linearGradient id="ln" x1="0" x2="1">
-      <stop offset="0" stop-color="#9B4DDB" stop-opacity="0"/>
-      <stop offset=".3" stop-color="#9B4DDB"/>
-      <stop offset=".5" stop-color="#C9C3E6"/>
-      <stop offset=".7" stop-color="#B3203F"/>
-      <stop offset="1" stop-color="#9B4DDB" stop-opacity="0"/>
+      <stop offset="0" stop-color="#C41E3A" stop-opacity="0"/>
+      <stop offset=".3" stop-color="#C41E3A"/>
+      <stop offset=".5" stop-color="#5A1A2E"/>
+      <stop offset=".7" stop-color="#E8475F"/>
+      <stop offset="1" stop-color="#C41E3A" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="gl" x1="0" x2="1">
-      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
-      <stop offset=".5" stop-color="#fff" stop-opacity=".9"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0" stop-color="#E8475F" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#E8475F" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#E8475F" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="c"><rect x="0" y="13" width="1200" height="4"/></clipPath>
     <symbol id="mask" viewBox="0 0 24 24">
@@ -24,5 +24,5 @@
   <rect x="0" y="14" width="560" height="2" fill="url(#ln)"/>
   <rect x="640" y="14" width="560" height="2" fill="url(#ln)"/>
   <g clip-path="url(#c)"><rect class="sh" x="0" y="13" width="160" height="4" fill="url(#gl)"/></g>
-  <use href="#mask" x="590" y="4" width="22" height="22" fill="#9B4DDB"/>
+  <use href="#mask" x="590" y="4" width="22" height="22" fill="#C41E3A"/>
 </svg>
