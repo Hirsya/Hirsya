@@ -2,7 +2,7 @@
 
 <img src="banner.svg" width="100%" alt="Hirsya" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=C41E3A&center=true&vCenter=true&width=600&lines=%3E+AI+workflow+%26+automation+enthusiast+%F0%9F%A4%96;%3E+Compsci+student+%40+University+of+Mataram+%F0%9F%8E%93;%3E+Java+%E2%80%A2+Python+%E2%80%A2+C%2B%2B" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=C41E3A&center=true&vCenter=true&width=600&lines=%3E+AI+workflow+%26+automation+enthusiast+%E2%99%A0;%3E+Compsci+student+%40+University+of+Mataram+%F0%9F%8E%93;%3E+Java+%E2%80%A2+Python+%E2%80%A2+C%2B%2B" alt="typing" />
 
 <img src="divider.svg" width="100%" />
 
@@ -15,7 +15,7 @@
 ```java
 public class Hirsya {
     String     name     = "Malikal Hirsya Alfatory";
-    String     vibe     = "AI workflow & automation enthusiast 🤖";
+    String     vibe     = "AI workflow & automation enthusiast ♠";
     String     school   = "Computer Science @ University of Mataram";
     List<String> stack  = List.of("Java", "Python", "C++", "PHP", "MySQL");
     List<String> learning = List.of("Docker", "Lua", "Roblox Studio", "Vercel");
